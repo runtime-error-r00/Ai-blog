@@ -10,7 +10,7 @@ pip install openai python-dotenv
 ## ⚙️ Configuration
 
 1. Create a new file called  `.env`
-2. Add: `OPENAI_API_KEY=tua-chiave`
+2. Add: `OPENAI_API_KEY=your-key`
 
 ## 🚀 Usage
 
